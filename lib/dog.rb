@@ -1,6 +1,6 @@
 class Dog
 
-fido = dog.new
+fido == dog.new
 
 
 
