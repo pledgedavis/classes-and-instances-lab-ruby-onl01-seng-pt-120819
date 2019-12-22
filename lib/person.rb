@@ -1,7 +1,7 @@
 class Person
 
 
-adele_goldberg = Person.
+adele_goldberg = Person.new
 
 
 
