@@ -13,6 +13,3 @@ fido = dog.new
 
 
 
-
-
-end
